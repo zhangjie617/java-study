@@ -1,9 +1,5 @@
-﻿//写了一个示例类
-public class HelloWorld{
-
-	private name;
-
-	public void main(){
-		
-	}
+﻿public class HelloWorld{
+  public static void main(String[] args){
+     System.out.println("Hello world!");
+  }
 }
